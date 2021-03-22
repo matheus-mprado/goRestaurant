@@ -1,0 +1,20 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Ao molho",
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
+      "price": "19.95",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTulSkRJU9T9c6OZWsx8JPG008W9D-Yw9bYdA&usqp=CAU",
+      "name": "farofa da boa",
+      "price": "23.50",
+      "description": "farofa da boa, pronta pra comer bem temperada e tudo mais",
+      "available": true,
+      "id": 2
+    }
+  ]
+}
